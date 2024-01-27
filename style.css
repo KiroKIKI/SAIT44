@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(169, 110, 209);
+    border: solid 1px hsl(278, 53%, 31%) ;
+    margin: 5px;
+    border-radius: 10px;
+}
+header img {
+    height: 50px;
+    width: 60px;
+    border: 1px solid white;
+    border-radius: 10PX;
+}
+header a {
+    text-decoration: none;
+    color: rgb(33, 3, 82);
+    background-color: rgba(255, 255, 255, 0.815);
+    margin: 130px;
+    border-radius: 6px;
+    
+}
+nav a {
+    text-decoration: none;
+    border-radius: 2px;
+    background-color: rgb(197, 152, 255);
+    color: black;
+    margin: 40px;
+    padding: 3px;
+}
+  h1 {
+  text-align: center;
+   background-color: rgb(216, 169, 255);
+   color: white;
+   margin: 40px;
+   border: 1px solid rgb(233, 176, 255);
+   border-radius: 3px;
+
+ }
+ 
+ p {
+     border-color: thistle;
+     
+ }
+ footer{
+     background-color: rgb(233, 162, 229);
+     border-radius: 10px;
+ }
+footer p {
+    background-color: rgb(245, 211, 255);
+    border-radius: 30px;
+    
+}
+.dd {
+    background-color: rgb(232, 183, 255);
+}
+.d {
+    background-color: rgba(242, 189, 255, 0.466);
+}
+.e{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(200, 132, 255);
+    border-radius: 5px;
+    margin: 5px;
+}
+ p {
+    background-color: rgba(184, 111, 252, 0.288);
+}
